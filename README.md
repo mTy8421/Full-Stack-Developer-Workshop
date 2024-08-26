@@ -1,6 +1,6 @@
 
 # Full Stack Developer-Workshop
-สำหรับการเรื่มต้น Full Stack Developer ด้วย Spring Boot
+สำหรับการเริ่มต้น Full Stack Developer ด้วย Spring Boot
 
 ## สิ่งที่ต้องเตรียมสำหรับการศึกษา
 
