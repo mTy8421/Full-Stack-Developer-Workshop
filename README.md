@@ -29,6 +29,6 @@ mvn spring-boot:run
 ```
 ดูตัวอย่างผลลัพธ์ :
 ```
-localhsot:8080/student
+localhost:8080/student
 ```
 > ขอให้มีความสุขต่อการเรียน Full Stack Develope
